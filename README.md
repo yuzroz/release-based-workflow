@@ -27,3 +27,5 @@ For more  [HTML5 Game Development](http://www.html5gamedevelopment.org) resource
 URL変更したつもり。
 
 追加で v1.0.2の修正したつもり。
+
+v1.1 にしたつもり
