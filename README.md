@@ -26,4 +26,4 @@ For more  [HTML5 Game Development](http://www.html5gamedevelopment.org) resource
 
 URL変更したつもり。
 
-v1.1.4の README.md
+v1.1.5 の README.md
