@@ -27,3 +27,4 @@ For more  [HTML5 Game Development](http://www.html5gamedevelopment.org) resource
 URL変更したつもり。
 
 v1.2 にするよ。
+コミット禁止テスト
