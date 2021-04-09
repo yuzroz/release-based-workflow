@@ -28,3 +28,9 @@ URL変更したつもり。
 
 v1.2 にするよ。
 コミット禁止テスト
+
+hoge
+fuga
+piyo
+poge
+puga
